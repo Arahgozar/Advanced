@@ -1,0 +1,15 @@
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\bin\Debug\net6.0\WarehouseManagementSystem.Business.deps.json
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\bin\Debug\net6.0\WarehouseManagementSystem.Business.dll
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\bin\Debug\net6.0\WarehouseManagementSystem.Business.pdb
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\bin\Debug\net6.0\WarehouseManagementSystem.Domain.dll
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\bin\Debug\net6.0\WarehouseManagementSystem.Domain.pdb
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\obj\Debug\net6.0\WarehouseManagementSystem.Business.csproj.AssemblyReference.cache
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\obj\Debug\net6.0\WarehouseManagementSystem.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\obj\Debug\net6.0\WarehouseManagementSystem.Business.AssemblyInfoInputs.cache
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\obj\Debug\net6.0\WarehouseManagementSystem.Business.AssemblyInfo.cs
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\obj\Debug\net6.0\WarehouseManagementSystem.Business.csproj.CoreCompileInputs.cache
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\obj\Debug\net6.0\WarehouseManagementSystem.Business.csproj.CopyComplete
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\obj\Debug\net6.0\WarehouseManagementSystem.Business.dll
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\obj\Debug\net6.0\refint\WarehouseManagementSystem.Business.dll
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\obj\Debug\net6.0\WarehouseManagementSystem.Business.pdb
+C:\Code\Advanced\03\Start_Here\WarehouseManagementSystem\WarehouseManagementSystem.Business\obj\Debug\net6.0\ref\WarehouseManagementSystem.Business.dll
